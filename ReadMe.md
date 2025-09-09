@@ -26,7 +26,7 @@
 
 1. [Public International Law (PIL)](https://en.wikibooks.org/wiki/Public_International_Law) [Regulatory Compliance](https://en.wikipedia.org/wiki/Regulatory_compliance).
 2. Voting and Poll [Data Analysis](https://en.wikipedia.org/wiki/Data_analysis) Procedure Decision. 
-3. [Electronic Voting (eVoting)](https://en.wikipedia.org/wiki/Electronic_voting) [open source software](https://en.wikipedia.org/wiki/Open_source) Procurement in [The Democracy Foundation 'List of eVoting and eDemocracy Projects'](https://democracy.foundation/similar-projects).
+3. [Electronic Voting (eVoting)](https://en.wikipedia.org/wiki/Electronic_voting) [open source software](https://en.wikipedia.org/wiki/Open_source) Procurement in [The Democracy Foundation 'List of eVoting and eDemocracy Projects'](https://democracy.foundation/similar-projects) including safety measures to avoid bots and artificial intelligences (AIs).
 4. [Open Educational Resources (OER)](https://en.wikipedia.org/wiki/Open_educational_resources) [Official Documents](https://en.wikipedia.org/wiki/Policy) to Be Voted Preparation With the Massive Voting Cues and Options.
 5. Voting Session [Diplomatic Protocol](https://en.wikipedia.org/wiki/Protocol_(diplomacy)) [Secure Operations Development (DevSecOps)](https://en.wikipedia.org/wiki/DevOps#DevSecOps,_shifting_security_left).
 6. [Accounting](https://en.wikipedia.org/wiki/Accounting) [Evaluation](https://en.wikipedia.org/wiki/Evaluation) and [Assessment](https://en.wikipedia.org/wiki/Assessment) Public [Peer Review](https://en.wikipedia.org/wiki/Peer_review).
