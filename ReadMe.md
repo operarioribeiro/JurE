@@ -1,14 +1,14 @@
-# [JurE](https://operarioribeiro.github.com/JurE)
+# [Juridical Evaluator (JurE)](https://operarioribeiro.github.com/JurE)
 
 > _"Multiple voting for policy audited data analysis."_
 
 ## Open Project:
 
-**JurE** is a [rule of law (RoL)](https://en.wikipedia.org/wiki/Rule_of_law) [voting method](https://en.wikipedia.org/wiki/Voting) based on the [open science](https://en.wikipedia.org/wiki/Open_science) [methodology](https://open-sci.github.io/2023-2024/slides/04.pdf) proposal of massive preprogrammed series of questions based [secret ballot](https://en.wikipedia.org/wiki/Secret_ballot) [public polls](https://en.wikipedia.org/wiki/Poll) that allow for the increase of [direct democracy](https://en.wikipedia.org/wiki/Direct_democracy) and [electronic democracy (eDem)](https://en.wikipedia.org/wiki/E-democracy) [open data](https://en.wikipedia.org/wiki/Open_data) [science](https://en.wikipedia.org/wiki/Data_science) through [transparent](https://en.wikipedia.org/wiki/Open_government#Transparency) [audit](https://en.wikipedia.org/wiki/Audit).
+**Juridical Evaluation (JurE)** is a [rule of law (RoL)](https://en.wikipedia.org/wiki/Rule_of_law) [voting method](https://en.wikipedia.org/wiki/Voting) based on the [open science](https://en.wikipedia.org/wiki/Open_science) [methodology](https://open-sci.github.io/2023-2024/slides/04.pdf) proposal of massive preprogrammed series of questions based [secret ballot](https://en.wikipedia.org/wiki/Secret_ballot) [public polls](https://en.wikipedia.org/wiki/Poll) that allow for the increase of [direct democracy](https://en.wikipedia.org/wiki/Direct_democracy) and [electronic democracy (eDem)](https://en.wikipedia.org/wiki/E-democracy) [open data](https://en.wikipedia.org/wiki/Open_data) [science](https://en.wikipedia.org/wiki/Data_science) through [transparent](https://en.wikipedia.org/wiki/Open_government#Transparency) [audit](https://en.wikipedia.org/wiki/Audit).
 
-![image](https://github.com/operarioribeiro/JurE/blob/main/JurE.png)
+![image](https://github.com/operarioribeiro/JurE/blob/main/Juridical%20Evaluator%20(JurE).png)
 
-**JurE** can be used for the analysis of compliance of preprogrammed presentations with distinct rules, such as:
+**(Juridical Evaluator (JurE)** can be used for the analysis of compliance of preprogrammed presentations with distinct rules, such as:
 - Universal ethical principles parliamentary minimum requirements maintenance in public speeches and legal policies.
 - Eloquence analysis of literary texts, verse by verse, phrase by phrase, paragraph by paragraph, chapter by chapter, etc.
 - Professional performance improvement team self-analysis.
