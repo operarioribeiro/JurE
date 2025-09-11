@@ -1,6 +1,6 @@
 # [Juridical Evaluator (JurE)](https://operarioribeiro.github.com/JurE)
 
-> _"Multiple voting for policy audited data analysis."_
+> _"Massive multiple voting for live direct democracy and e-democracy audited data analysis."_
 
 ## Open Project:
 
@@ -28,8 +28,11 @@
 2. Voting and Poll [Data Analysis](https://en.wikipedia.org/wiki/Data_analysis) Procedure Decision. 
 3. [Electronic Voting (eVoting)](https://en.wikipedia.org/wiki/Electronic_voting) [open source software](https://en.wikipedia.org/wiki/Open_source) Procurement in [The Democracy Foundation 'List of eVoting and eDemocracy Projects'](https://democracy.foundation/similar-projects) including safety measures to avoid bots, artificial intelligences (AIs) usage, and data acquisition to comply with open data.
 4. [Open Educational Resources (OER)](https://en.wikipedia.org/wiki/Open_educational_resources) [Official Documents](https://en.wikipedia.org/wiki/Policy) to Be Voted Preparation With the Massive Voting Cues and Options.
-5. Voting Session [Diplomatic Protocol](https://en.wikipedia.org/wiki/Protocol_(diplomacy)) [Secure Operations Development (DevSecOps)](https://en.wikipedia.org/wiki/DevOps#DevSecOps,_shifting_security_left).
+5. Political Arena Agora (Poliagora) Voting Session [Diplomatic Protocol](https://en.wikipedia.org/wiki/Protocol_(diplomacy)) with [live coding](https://en.wikipedia.org/wiki/Live_coding) [data and information visualization (DataVis)](https://en.wikipedia.org/wiki/Data_and_information_visualization) [Secure Operations Development (DevSecOps)](https://en.wikipedia.org/wiki/DevOps#DevSecOps,_shifting_security_left).
 6. [Accounting](https://en.wikipedia.org/wiki/Accounting) [Evaluation](https://en.wikipedia.org/wiki/Evaluation) and [Assessment](https://en.wikipedia.org/wiki/Assessment) Public [Peer Review](https://en.wikipedia.org/wiki/Peer_review).
+7. Review of the protocols and codes used.
+
+![image](https://github.com/operarioribeiro/JurE/blob/main/Political%20Arena%20Agora%20(Poliagora).png)
 
 ## Open License:
 
