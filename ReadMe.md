@@ -30,7 +30,7 @@
 4. [Open Educational Resources (OER)](https://en.wikipedia.org/wiki/Open_educational_resources) [Official Documents](https://en.wikipedia.org/wiki/Policy) to Be Voted Preparation With the Massive Voting Cues and Options.
 5. Political Arena Agora (Poliagora) Voting Session [Diplomatic Protocol](https://en.wikipedia.org/wiki/Protocol_(diplomacy)) with [live coding](https://en.wikipedia.org/wiki/Live_coding) [data and information visualization (DataVis)](https://en.wikipedia.org/wiki/Data_and_information_visualization) [Secure Operations Development (DevSecOps)](https://en.wikipedia.org/wiki/DevOps#DevSecOps,_shifting_security_left).
 6. [Accounting](https://en.wikipedia.org/wiki/Accounting) [Evaluation](https://en.wikipedia.org/wiki/Evaluation) and [Assessment](https://en.wikipedia.org/wiki/Assessment) Public [Peer Review](https://en.wikipedia.org/wiki/Peer_review).
-7. Review of the protocols and codes used.
+7. Review of the protocols and codes used, such as considering the benefits of the [Rotary International Standard of Governance Shortest-Term Possible Mandates](https://rotarygbi.org/media/2014/06/RIBI-Constitutional-Documents-2016-Index-Update.pdf).
 
 ![image](https://github.com/operarioribeiro/JurE/blob/main/Political%20Arena%20Agora%20(Poliagora).png)
 
